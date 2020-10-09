@@ -6,3 +6,6 @@ Created on Thu Oct  8 10:17:20 2020
 """
 
 $ git init
+
+def func(a, b):
+    return a - b
